@@ -7,8 +7,8 @@ Test your coding knowledge in this quiz! Powered by javascript logic, appends to
 
 Deployed Page: https://christophermowrey.github.io/Coding-Quiz/
 
-![screenshot](assets/images/screenshot.png)
-![screenshot](assets/images/screenshot.png)
+![Screenshot1](assets/images/Screenshot1.png)
+![Screenshot2](assets/images/Screenshot2.png)
 
 MIT License
 
