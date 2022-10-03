@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    height: 150px;
+}
+
+.quiz {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+.btn {
+    background-color: purple;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px 42px;
+    margin: 2%;
+}
+
+.answer-button {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn:hover {
+    background-color: blueviolet;
+}
+
+.open-quiz {
+    display: none;
+}
+
+.time {
+    font-weight: 700;
+}
